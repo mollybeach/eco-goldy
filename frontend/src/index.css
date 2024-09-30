@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* main #f3f3f3 */
+/* footer #d9d9d9 */
+:root{
+    --main-color: #f3f3f3;
+    --second-color: #d9d9d9;
+}
